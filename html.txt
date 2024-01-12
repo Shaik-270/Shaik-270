@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+
+<html>
+ <head>
+     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+     <link rel="stylesheet" href="https://mubina.w3spaces.com/styles.css">
+    
+     <meta Charset="utf-8">
+     <title>www.Instant Relief.Com</title>
+     
+     
+    
+     </head>
+     <body>
+         <h1>Instant Relief<br>Are You Using Painkillers To Get Rid Of Body Pain? </h1>
+         <p>Overdose of painkillers can damage to Liver, Kidney, Heart.Medications like Tylenol, Iboprofen and aspirin as it contains drugs like Oxycodone,
+         Codeine, Morphine, Vicodin And Hydrocodone can effect your life. 
+         
+        <h2> <ins><strong>Now Stop Taking Painkillers Everyday.<br>Just Apply The Instant Relief. </strong></ins></h2>
+             <p>To Know About The Benifits Of Instant Relief ➡️<span><a href="#pain" title="click here to view the picture">click here.</a></span> </p>
+             <img src="https://mubina.w3spaces.com/my-pics/IMG_20230323_103011.jpg" Alt="dress image" Width="70%" Height="auto">
+             <p>Being Able To Walk Pain-Free Is A Blessing. Here Is The Blessing For You. <P>
+            
+            
+                 <p><b><ins>Directions:</ins></b>Take 2to4 Drops Of Solution And Rub </p>
+                 <img id="pain" src="https://mubina.w3spaces.com/my-pics/IMG_20230323_105840.jpg" alt="dress with orenge color" Width="70%"Height="auto">
+                 <p>For More Details Please Contact-Cell:9963325139</p>
+                  <h3> <ins><strong>Click Here To Order. <br>Click On Below Button👇</strong></ins></h3>
+                  <a class="style" href="mailto:Mubinashaik32@gmail.Com" target="_blank">Order Now</a>
+
+                 
+                 </body>
+                 </html>
